@@ -8,7 +8,8 @@ This repository tracks my journey of solving coding problems daily from platform
 - `Medium/` – Problems tagged as medium
 - `Hard/` – Problems tagged as hard
 
-Each file is named in the format:
+##Each file is named in the format:
+
 <problem_number>-<problem-title>.py
 Example:
 ```python
@@ -22,5 +23,4 @@ Prepare for interviews with topic-focused revision
 
 🛠️ Languages Used
 Python (primary)
-
 C++ (occasionally)
