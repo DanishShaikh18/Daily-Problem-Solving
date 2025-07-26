@@ -1,6 +1,6 @@
 # 🔥 Daily Problem Solving
 
-This repository tracks my journey of solving coding problems daily from platforms like **Leetcode**, **CodeForces**, and more. Problems are organized by difficulty for clarity and long-term revision.
+This repository documents my ongoing journey of solving daily coding problems from platforms like LeetCode, CodeForces, and more. Each solution is thoughtfully structured and categorized by difficulty to support long-term learning, topic-wise revision, and interview preparation.
 
 ## 📁 Folder Structure
 
@@ -18,9 +18,10 @@ Example:
 ```
 
 🚀 Goals
-Maintain consistency in solving daily DSA problems
-Improve problem-solving speed and code clarity
-Prepare for interviews with topic-focused revision
+✅ Build a consistent daily DSA habit
+⚡ Enhance problem-solving speed and accuracy
+🧠 Strengthen algorithmic thinking and code readability
+💼 Prepare for technical interviews through structured practice
 
 🛠️ Languages Used
 Python (primary)
